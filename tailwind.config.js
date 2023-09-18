@@ -14,7 +14,11 @@ module.exports = {
       offWhite: "#F8E7EB",
       black: "#000",
       offBlack: "#333333",
-      dustBlack: "#404040",
+      blue: "#02133F",
+      orange: "#EF7C00",
+      fadeOrange: "#F3D1BF",
+      darkBrown: "#391400",
+      brown: "#5C2000",
     },
     fontFamily: {
       raleway: ["Raleway", "sans"],
